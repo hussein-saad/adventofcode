@@ -1,0 +1,11 @@
+{
+  "name": "adventofcode2024",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Hussein Saad",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/node": "^22.10.1"
+  }
+}
