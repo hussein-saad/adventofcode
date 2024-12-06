@@ -1,0 +1,2 @@
+answer for part one: 2500
+answer for part two: 1933
